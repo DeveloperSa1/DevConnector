@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://Fahad:1122113Fahad@cluster0.zccnx.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecerttoken"
+  "jwtSecret": "mysecerttoken",
+  "githubClientId": "0dfab41596c088658f76",
+  "githubSecret": "b5c5742489a51fef9b9459a41724b88aa589d07b"
 }
